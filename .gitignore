@@ -1,0 +1,13 @@
+# Ignore mlruns folder
+mlruns/
+
+# Ignore specific model weights file
+models/pt_weights/mae_pretrain_vit_base.pth
+
+# Ignore specific test and train scripts
+test_swisscube.py
+train_swisscube.py
+
+# Ignore result files
+results.json
+results.txt
